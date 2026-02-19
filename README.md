@@ -32,8 +32,8 @@ This project focuses on backend development concepts such as database connectivi
 ---
 
 ## How to Run
-1. Clone the repository  
-
+1. Clone the repository
+   git clone https://github.com/Sneha2487/student-result-system.git
 
 2. Create the database in MySQL using the provided SQL script  
 
